@@ -1,4 +1,4 @@
-#Mungara Ganesh Haricharan RA1911030010091
+
 import tkinter as tk
 import sqlite3
 from tkinter import filedialog
